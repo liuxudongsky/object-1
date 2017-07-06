@@ -1,0 +1,23 @@
+<style>
+	*{margin: 0;padding: 0;}
+	body{
+		margin: 0 auto;
+	}
+	.cont{
+		width: auto;
+		
+		display: -webkit-box;
+		display: -moz-box;
+		display: box;
+		padding: 1.5%;
+	}
+	.grid{
+		-moz-box-flex:1;
+    	-webkit-box-flex:1;
+    	box-flex:1;
+		margin: 1.5%;
+		background: yellow;
+		padding: 15%;
+		border-radius: 15%;
+	}
+	</style>
